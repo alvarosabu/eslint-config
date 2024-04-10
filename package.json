@@ -1,7 +1,7 @@
 {
   "name": "@alvarosabu/eslint-config",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageManager": "pnpm@8.15.4",
   "description": "",
   "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
@@ -38,7 +38,7 @@
     "watch": "tsup --format esm,cjs --watch"
   },
   "peerDependencies": {
-    "eslint": "8.x"
+    "eslint": "9.x"
   },
   "dependencies": {
     "@antfu/eslint-config": "^2.13.2",
