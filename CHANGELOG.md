@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/alvarosabu/eslint-config/compare/1.1.0...1.2.0) (2024-08-19)
+
+
+### 🚀 Features
+
+* **deps:** updated deps ([57d7ad0](https://github.com/alvarosabu/eslint-config/commit/57d7ad03ade615148b45d07bc1a6d2e8263a7b0e))
+
 ## [1.1.0](https://github.com/alvarosabu/eslint-config/compare/1.0.0...1.1.0) (2024-04-10)
 
 
