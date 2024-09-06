@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/alvarosabu/eslint-config/compare/1.2.0...1.3.0) (2024-09-06)
+
+
+### 🚀 Features
+
+* @antfu/eslint-config v3 ([fd68339](https://github.com/alvarosabu/eslint-config/commit/fd6833923f98163d99619589308b1d0d9d7359de))
+
 ## [1.2.0](https://github.com/alvarosabu/eslint-config/compare/1.1.0...1.2.0) (2024-08-19)
 
 
