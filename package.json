@@ -41,7 +41,7 @@
     "eslint": ">=8.40.0"
   },
   "dependencies": {
-    "@antfu/eslint-config": "^2.26.0",
+    "@antfu/eslint-config": "^3.3.2",
     "eslint-plugin-format": "^0.1.2"
   },
   "devDependencies": {
